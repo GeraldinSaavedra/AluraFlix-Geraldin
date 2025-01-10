@@ -25,7 +25,7 @@
 El presente proyecto es el cumplimiento del challenge creado por ALURA LATAM y ORACLE para que podamos llegar al siguiente nivel en nuestra formación como porgramadores. Es un programa que permite almacenar videos de diferentes categorias de alura, eliminar y añadir nuevos mediante la aplicación de REACT.
      
 **Pagina Web**
-
+https://alura-flix-geraldin.vercel.app/
 ![pagina](https://github.com/GeraldinSaavedra/AluraFlix-Geraldin/blob/04d33fd98358790e0d8b336ed9b21237866150a0/IMAGEN1.png)
 
 </p>
